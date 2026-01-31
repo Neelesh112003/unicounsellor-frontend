@@ -110,7 +110,7 @@ export default function LoginForm({}: LoginFormProps) {
         
         <p className="text-sm text-center text-gray-600 mt-6">
           Don't have an account?{" "}
-          <Link href="/auth/signup" className="text-teal-600 font-medium hover:text-teal-700 transition-colors">
+          <Link href="/signup" className="text-teal-600 font-medium hover:text-teal-700 transition-colors">
             Sign up
           </Link>
         </p>
